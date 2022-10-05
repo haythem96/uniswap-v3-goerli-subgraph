@@ -10,7 +10,7 @@ dataSources:
     name: Factory
     network: goerli
     source:
-      address: '0x1F98431c8aD98523631AE4a59f267346ea31F984'
+      address: '0x2Db05f50645a7EAEd686bdf64DE3F90Fde2041b3'
       abi: Factory
       startBlock: 4734394
     mapping:
@@ -39,7 +39,7 @@ dataSources:
     name: NonfungiblePositionManager
     network: goerli
     source:
-      address: '0xC36442b4a4522E871399CD717aBDD847Ab11FE88'
+      address: '0xa22acAd8494B641D374f510CD88DeacABe24B0F9'
       abi: NonfungiblePositionManager
       startBlock: 4734414
     mapping:
